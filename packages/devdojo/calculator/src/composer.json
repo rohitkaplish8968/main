@@ -1,0 +1,8 @@
+{
+    "name": "devdojo/calculator",
+    "description": "rohitpackage",
+    "type": "project",
+    "license": "mit",
+    "minimum-stability": "dev",
+    "require": {}
+}
