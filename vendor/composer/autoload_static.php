@@ -47,6 +47,10 @@ class ComposerStaticInit63b47777ae5e2a78796a8f06c732c823
         array (
             'phpDocumentor\\Reflection\\' => 25,
         ),
+        'd' => 
+        array (
+            'devdojorohitkaplishg\\calculator\\' => 32,
+        ),
         'W' => 
         array (
             'Whoops\\' => 7,
@@ -159,7 +163,6 @@ class ComposerStaticInit63b47777ae5e2a78796a8f06c732c823
             'Doctrine\\Inflector\\' => 19,
             'Doctrine\\Common\\Lexer\\' => 22,
             'Dflydev\\DotAccessData\\' => 22,
-            'Devdojo\\Calculator\\' => 19,
             'DeepCopy\\' => 9,
             'Database\\Seeders\\' => 17,
             'Database\\Factories\\' => 19,
@@ -190,6 +193,10 @@ class ComposerStaticInit63b47777ae5e2a78796a8f06c732c823
             0 => __DIR__ . '/..' . '/phpdocumentor/reflection-common/src',
             1 => __DIR__ . '/..' . '/phpdocumentor/reflection-docblock/src',
             2 => __DIR__ . '/..' . '/phpdocumentor/type-resolver/src',
+        ),
+        'devdojorohitkaplishg\\calculator\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/packages/devdojorohitkaplishg/calculator/src',
         ),
         'Whoops\\' => 
         array (
@@ -476,10 +483,6 @@ class ComposerStaticInit63b47777ae5e2a78796a8f06c732c823
         'Dflydev\\DotAccessData\\' => 
         array (
             0 => __DIR__ . '/..' . '/dflydev/dot-access-data/src',
-        ),
-        'Devdojo\\Calculator\\' => 
-        array (
-            0 => __DIR__ . '/../..' . '/packages/devdojo/calculator/src',
         ),
         'DeepCopy\\' => 
         array (
@@ -5398,6 +5401,7 @@ class ComposerStaticInit63b47777ae5e2a78796a8f06c732c823
         'Whoops\\Util\\Misc' => __DIR__ . '/..' . '/filp/whoops/src/Whoops/Util/Misc.php',
         'Whoops\\Util\\SystemFacade' => __DIR__ . '/..' . '/filp/whoops/src/Whoops/Util/SystemFacade.php',
         'Whoops\\Util\\TemplateHelper' => __DIR__ . '/..' . '/filp/whoops/src/Whoops/Util/TemplateHelper.php',
+        'devdojorohitkaplishg\\calculator\\CalculatorServiceProvider' => __DIR__ . '/../..' . '/packages/devdojorohitkaplishg/calculator/src/CalculatorServiceProvider.php',
         'phpDocumentor\\Reflection\\DocBlock' => __DIR__ . '/..' . '/phpdocumentor/reflection-docblock/src/DocBlock.php',
         'phpDocumentor\\Reflection\\DocBlockFactory' => __DIR__ . '/..' . '/phpdocumentor/reflection-docblock/src/DocBlockFactory.php',
         'phpDocumentor\\Reflection\\DocBlockFactoryInterface' => __DIR__ . '/..' . '/phpdocumentor/reflection-docblock/src/DocBlockFactoryInterface.php',
