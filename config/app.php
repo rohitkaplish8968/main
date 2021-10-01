@@ -179,7 +179,7 @@ return [
 	*/
 	Illuminate\Auth\AuthServiceProvider::class,
 	//.. Other providers
-	Devdojo\Calculator\CalculatorServiceProvider::class,
+	Devdojorohitkaplish\Calculator\CalculatorServiceProvider::class,
 
 
     ],

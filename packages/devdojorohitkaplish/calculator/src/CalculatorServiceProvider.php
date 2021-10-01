@@ -1,6 +1,6 @@
 <?php
 
-namespace devdojo\calculator;
+namespace devdojorohitkaplish\calculator;
 
 use Illuminate\Support\ServiceProvider;
 
